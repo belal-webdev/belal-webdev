@@ -13,7 +13,7 @@ My goal is to build clean, fast, and simple tools that save time and make busine
 - Booking systems  
 - Invoice & receipt tools  
 - Admin dashboards  
-- Simple management systems (Bolt + Supabase)
+- Simple management systems 
 
 ### 🤖 AI Automations
 - Invoice data extraction  
